@@ -13,4 +13,4 @@ This class takes in the data to be encoded, the file path where the QR code imag
 You can also add methods to add logo or other information to QR code.
 You can also use other libraries like endroid/qr-code,SimpleQrCode, BaconQrCode for generating QR code and create a class using that library.
 
-This example uses the PHP QR Code library, which can be downloaded from its website (http://phpqrcode.sourceforge.net/).
+This example uses the PHP QR Code library, which can be downloaded from its website (https://phpqrcode.sourceforge.net/).
