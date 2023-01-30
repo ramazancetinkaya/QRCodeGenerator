@@ -1,4 +1,4 @@
-# QRCodeGenerator
+# QR Code Generator
 Here is an example using the PHP QR Code library.
 
 ## Example Usage
